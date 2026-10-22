@@ -1,0 +1,22 @@
+{
+  "name": "brevete-mtc-cli",
+  "version": "1.0.0",
+  "description": "Simulador interactivo de examen de reglas MTC A-I en consola, por Brevete.net.pe",
+  "main": "simular.js",
+  "bin": {
+    "brevete-simular": "./simular.js"
+  },
+  "scripts": {
+    "start": "node simular.js"
+  },
+  "keywords": [
+    "brevete",
+    "mtc",
+    "peru",
+    "simulador",
+    "examen",
+    "a1"
+  ],
+  "author": "Brevete.net.pe",
+  "license": "MIT"
+}
