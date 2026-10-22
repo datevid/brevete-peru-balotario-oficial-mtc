@@ -1,26 +1,23 @@
 /**
  * Script de validación de integridad para GitHub Actions
- * Verifica que todos los balotarios PDF oficiales, paquetes .apkg y Markdown existan y sean válidos.
+ * Verifica la estructura de balotarios, paquetes .apkg y Markdown del repositorio.
  */
 const fs = require('fs');
 const path = require('path');
 const assert = require('assert/strict');
 
 const root = path.resolve(__dirname, '..');
-const pdfDir = path.join(root, 'balotarios-pdf', '2026-vigente');
+const pdfDir = path.join(root, 'balotarios-pdf');
 const ankiDir = path.join(root, 'tarjetas-anki');
 const mdDir = path.join(root, 'balotarios-markdown');
 const circuitDir = path.join(root, 'circuitos-evaluacion');
 
-console.log('🔍 1. Validando balotarios oficiales PDF (2026-vigente)...');
-const pdfFiles = fs.readdirSync(pdfDir).filter(f => f.endsWith('.pdf'));
-assert.ok(pdfFiles.length >= 9, `Deben existir al menos 9 archivos PDF (encontrados ${pdfFiles.length})`);
-
-for (const f of pdfFiles) {
-  const stat = fs.statSync(path.join(pdfDir, f));
-  assert.ok(stat.size > 50000, `Archivo PDF ${f} sospechosamente pequeño (${stat.size} bytes)`);
-  console.log(`  ✔ ${f}: ${(stat.size / 1024).toFixed(1)} KB (OK)`);
-}
+console.log('🔍 1. Validando directorio y guía de Balotarios PDF...');
+const pdfReadme = path.join(pdfDir, 'README.md');
+assert.ok(fs.existsSync(pdfReadme), 'Falta el archivo balotarios-pdf/README.md');
+const pdfReadmeContent = fs.readFileSync(pdfReadme, 'utf8');
+assert.ok(pdfReadmeContent.includes('brevete.net.pe/licencias'), 'README de balotarios-pdf debe incluir enlaces a Brevete.net.pe');
+console.log('  ✔ balotarios-pdf/README.md con enlaces canónicos de descarga verificado.');
 
 console.log('\n🔍 2. Validando paquetes Anki (.apkg)...');
 const ankiFiles = fs.readdirSync(ankiDir).filter(f => f.endsWith('.apkg'));

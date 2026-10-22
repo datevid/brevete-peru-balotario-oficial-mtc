@@ -19,5 +19,5 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Validate Official PDFs, APKG Packages and Markdown
+      - name: Validate Balotarios, APKG Packages and Markdown
         run: node scripts/validate-repo.js

@@ -4,7 +4,7 @@
 > **Compilado y Verificado por:** [Brevete.net.pe](https://www.brevete.net.pe)  
 > **Simulador Interactivo con Cronómetro de 40 minutos:** 👉 [Practicar en vivo en Brevete.net.pe](https://www.brevete.net.pe/simulacros/a2b)  
 > **Tarjetas de Memoria Anki y Repetición Espaciada:** 👉 [Estudiar Tarjetas Flashcards](https://www.brevete.net.pe/simulacros/a2b/tarjetas)  
-> **Descargar Balotario Oficial en PDF:** 👉 [Ver PDF 2026](../balotarios-pdf/2026-vigente/balotario-oficial-mtc-a2b-2026.pdf)  
+> **Descargar Balotario Oficial en PDF:** 👉 [Ver y Descargar Balotario PDF en Brevete.net.pe](https://www.brevete.net.pe/licencias/a2b/balotario)  
 > **Total de Preguntas:** 270
 
 ---

@@ -1,30 +1,27 @@
-# Balotarios Oficiales en PDF — Ministerio de Transportes y Comunicaciones (MTC Perú)
+# Balotarios Oficiales MTC en PDF — Descarga Oficial en Brevete.net.pe
 
-Este directorio almacena los documentos oficiales en formato PDF emitidos por el **Ministerio de Transportes y Comunicaciones (MTC)** para la evaluación de conocimientos de postulantes a licencias de conducir en el Perú.
+Los balotarios oficiales emitidos por el **Ministerio de Transportes y Comunicaciones (MTC)** para la evaluación de conocimientos se encuentran alojados y disponibles para descarga gratuita en **[Brevete.net.pe](https://www.brevete.net.pe/balotarios)**.
 
-> **¿Deseas practicar con examen cronometrado de 40 preguntas, voz en audio y explicaciones con base legal?**  
-> Ingresa de forma gratuita y sin registro al simulador en línea:  
-> 👉 **[Brevete.net.pe — Simulador Oficial MTC 2026](https://www.brevete.net.pe/simulacros/a1)**
+Al ingresar al enlace de cada categoría, podrás consultar las preguntas interactivas con explicación técnica y utilizar el botón **"Descargar PDF Oficial"** para obtener el documento oficial:
 
 ---
 
-## 🗂 Organización de Carpetas y Versionado
+## 📥 Enlaces Directos de Descarga de Balotarios PDF (MTC 2026)
 
-* **[`2026-vigente/`](2026-vigente/):** Balotarios oficiales actualmente en vigor, auditados según el D.S. N° 007-2016-MTC, R.D. N° 016-2016-MTC/15 y las modificaciones de velocidad del D.S. N° 025-2021-MTC.
-* **[`historico/`](historico/):** Registro histórico y trazabilidad de versiones anteriores de balotarios del MTC.
+| Categoría | Denominación Oficial | Preguntas | Página Oficial de Descarga PDF en Brevete.net.pe |
+| :---: | :--- | :---: | :--- |
+| **A-I** | Particular (Autos, SUVs, Camionetas) | 200 | 👉 [Ver y Descargar Balotario PDF A-I](https://www.brevete.net.pe/licencias/a1/balotario) |
+| **A-IIa** | Profesional (Taxi, Escolar, Turismo) | 224 | 👉 [Ver y Descargar Balotario PDF A-IIa](https://www.brevete.net.pe/licencias/a2a/balotario) |
+| **A-IIb** | Cúster, Combi y Camiones hasta 12 TN | 270 | 👉 [Ver y Descargar Balotario PDF A-IIb](https://www.brevete.net.pe/licencias/a2b/balotario) |
+| **A-IIIa** | Buses y Ómnibus Interprovinciales | 272 | 👉 [Ver y Descargar Balotario PDF A-IIIa](https://www.brevete.net.pe/licencias/a3a/balotario) |
+| **A-IIIb** | Camiones Pesados y Tráilers (>12 TN) | 271 | 👉 [Ver y Descargar Balotario PDF A-IIIb](https://www.brevete.net.pe/licencias/a3b/balotario) |
+| **A-IIIc** | Transporte Especializado e Integral | 339 | 👉 [Ver y Descargar Balotario PDF A-IIIc](https://www.brevete.net.pe/licencias/a3c/balotario) |
+| **B-IIa** | Bicimotos y Vehículos Menores Livianos | 204 | 👉 [Ver y Descargar Balotario PDF B-IIa](https://www.brevete.net.pe/licencias/b2a/balotario) |
+| **B-IIb** | Motocicletas Lineales | 204 | 👉 [Ver y Descargar Balotario PDF B-IIb](https://www.brevete.net.pe/licencias/b2b/balotario) |
+| **B-IIc** | Trimóviles, Mototaxis y Pasajeros | 244 | 👉 [Ver y Descargar Balotario PDF B-IIc](https://www.brevete.net.pe/licencias/b2c/balotario) |
 
 ---
 
-## 📑 Balotarios Vigentes (2026)
+## 🗂 Archivo Histórico de Actualizaciones
 
-| Categoría | Denominación Oficial | Archivo PDF Oficial | Preguntas | Simulador Web Interactivo |
-| :---: | :--- | :--- | :---: | :---: |
-| **A-I** | Particular (Autos, SUVs, Camionetas) | [`balotario-oficial-mtc-a1-2026.pdf`](2026-vigente/balotario-oficial-mtc-a1-2026.pdf) | 200 | [Simulador A-I](https://www.brevete.net.pe/simulacros/a1) |
-| **A-IIa** | Profesional (Taxi, Escolar, Turismo) | [`balotario-oficial-mtc-a2a-2026.pdf`](2026-vigente/balotario-oficial-mtc-a2a-2026.pdf) | 224 | [Simulador A-IIa](https://www.brevete.net.pe/simulacros/a2a) |
-| **A-IIb** | Cúster, Combi y Camiones hasta 12 TN | [`balotario-oficial-mtc-a2b-2026.pdf`](2026-vigente/balotario-oficial-mtc-a2b-2026.pdf) | 270 | [Simulador A-IIb](https://www.brevete.net.pe/simulacros/a2b) |
-| **A-IIIa** | Buses y Ómnibus Interprovinciales | [`balotario-oficial-mtc-a3a-2026.pdf`](2026-vigente/balotario-oficial-mtc-a3a-2026.pdf) | 272 | [Simulador A-IIIa](https://www.brevete.net.pe/simulacros/a3a) |
-| **A-IIIb** | Camiones Pesados y Tráilers (>12 TN) | [`balotario-oficial-mtc-a3b-2026.pdf`](2026-vigente/balotario-oficial-mtc-a3b-2026.pdf) | 271 | [Simulador A-IIIb](https://www.brevete.net.pe/simulacros/a3b) |
-| **A-IIIc** | Transporte Especializado e Integral | [`balotario-oficial-mtc-a3c-2026.pdf`](2026-vigente/balotario-oficial-mtc-a3c-2026.pdf) | 339 | [Simulador A-IIIc](https://www.brevete.net.pe/simulacros/a3c) |
-| **B-IIa** | Bicimotos y Vehículos Menores Livianos | [`balotario-oficial-mtc-b2a-2026.pdf`](2026-vigente/balotario-oficial-mtc-b2a-2026.pdf) | 204 | [Simulador B-IIa](https://www.brevete.net.pe/simulacros/b2a) |
-| **B-IIb** | Motocicletas Lineales | [`balotario-oficial-mtc-b2b-motos-2026.pdf`](2026-vigente/balotario-oficial-mtc-b2b-motos-2026.pdf) | 204 | [Simulador B-IIb](https://www.brevete.net.pe/simulacros/b2b) |
-| **B-IIc** | Trimóviles, Mototaxis y Pasajeros | [`balotario-oficial-mtc-b2c-mototaxis-2026.pdf`](2026-vigente/balotario-oficial-mtc-b2c-mototaxis-2026.pdf) | 244 | [Simulador B-IIc](https://www.brevete.net.pe/simulacros/b2c) |
+En la carpeta [`historico/`](historico/) se registran las fechas de promulgación y la trazabilidad de modificaciones normativas aprobadas por el MTC (como el D.S. N° 025-2021 sobre nuevos límites de velocidad y resoluciones directorales complementarias).
