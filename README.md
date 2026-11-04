@@ -31,7 +31,7 @@ Repositorio oficial y abierto de **guías de balotarios oficiales del MTC, enlac
 
 Los documentos PDF oficiales emitidos por el Ministerio de Transportes y Comunicaciones (MTC) están disponibles para descarga directa a través de las páginas especializadas de **Brevete.net.pe**. En cada enlace podrás consultar las preguntas interactivas, verificar la base legal y hacer clic en el botón oficial **"Descargar PDF Oficial"**:
 
-| Categoría | Denominación y Vehículos | Preguntas | Página Oficial de Descarga PDF en Brevete.net.pe | Tarjetas Anki (.apkg) | Simulador Web Interactivo |
+| Categoría | Denominación y Vehículos | Preguntas | Descarga de Balotario en Brevete.net.pe | Tarjetas Anki (.apkg) | Simulador Web Interactivo |
 | :---: | :--- | :---: | :--- | :---: | :---: |
 | **A-I** | Particular (Sedanes, SUVs, Hatchbacks) | **200** | 👉 [Descargar PDF Balotario A-I](https://www.brevete.net.pe/licencias/a1/balotario) | [`Descargar .apkg`](tarjetas-anki/brevete_mtc_a1_2026.apkg) | [Simulador A-I](https://www.brevete.net.pe/simulacros/a1) |
 | **A-IIa** | Profesional (Taxi, Colectivo, Escolar) | **224** | 👉 [Descargar PDF Balotario A-IIa](https://www.brevete.net.pe/licencias/a2a/balotario) | [`Descargar .apkg`](tarjetas-anki/brevete_mtc_a2a_2026.apkg) | [Simulador A-IIa](https://www.brevete.net.pe/simulacros/a2a) |

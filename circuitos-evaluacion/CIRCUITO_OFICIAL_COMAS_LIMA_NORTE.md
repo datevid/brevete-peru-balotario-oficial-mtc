@@ -1,7 +1,7 @@
 # Circuito Oficial de Evaluación de Manejo: Sede Lima Norte (Comas) 2026
 
 **Fuente Técnica:** Municipalidad Metropolitana de Lima (MML) / Consorcio Vial Norte  
-**Portal Oficial de Práctica y Croquis en Vivo:** [Brevete.net.pe — Simulador de Circuito Comas](https://www.brevete.net.pe/simulacros/a1/circuito)  
+**Portal de Práctica y Croquis en Vivo:** [Brevete.net.pe — Simulador de Circuito Comas](https://www.brevete.net.pe/simulacros/a1/circuito)  
 **Ubicación:** Jr. Flor de Arayanes N° 361 / 497, Comas, Lima Metropolitana (Alt. Parque Zonal Sinchi Roca).  
 **Coordenadas GPS:** `11°55'22"S 77°02'56"W` (-11.9228, -77.0489).
 

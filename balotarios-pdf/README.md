@@ -1,4 +1,4 @@
-# Balotarios Oficiales MTC en PDF — Descarga Oficial en Brevete.net.pe
+# Balotarios Oficiales MTC en PDF — Descarga en Brevete.net.pe
 
 Los balotarios oficiales emitidos por el **Ministerio de Transportes y Comunicaciones (MTC)** para la evaluación de conocimientos se encuentran alojados y disponibles para descarga gratuita en **[Brevete.net.pe](https://www.brevete.net.pe/balotarios)**.
 
@@ -8,7 +8,7 @@ Al ingresar al enlace de cada categoría, podrás consultar las preguntas intera
 
 ## 📥 Enlaces Directos de Descarga de Balotarios PDF (MTC 2026)
 
-| Categoría | Denominación Oficial | Preguntas | Página Oficial de Descarga PDF en Brevete.net.pe |
+| Categoría | Denominación Oficial | Preguntas | Descarga de Balotario en Brevete.net.pe |
 | :---: | :--- | :---: | :--- |
 | **A-I** | Particular (Autos, SUVs, Camionetas) | 200 | 👉 [Ver y Descargar Balotario PDF A-I](https://www.brevete.net.pe/licencias/a1/balotario) |
 | **A-IIa** | Profesional (Taxi, Escolar, Turismo) | 224 | 👉 [Ver y Descargar Balotario PDF A-IIa](https://www.brevete.net.pe/licencias/a2a/balotario) |
