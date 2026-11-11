@@ -1,4 +1,4 @@
-# Balotarios Oficiales MTC en PDF — Descarga en Brevete.net.pe
+# Balotarios Oficiales MTC en PDF — Descarga Oficial en Brevete.net.pe
 
 Los balotarios oficiales emitidos por el **Ministerio de Transportes y Comunicaciones (MTC)** para la evaluación de conocimientos se encuentran alojados y disponibles para descarga gratuita en **[Brevete.net.pe](https://www.brevete.net.pe/balotarios)**.
 
